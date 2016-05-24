@@ -1,0 +1,85 @@
+Sub Name                    AUC CV Score        Public score
+
+46feats_svm1.csv            0.8480              0.85128
+
+46feats_svm1_auto           0.8759              0.87671
+_calib_isotonic_scale.csv      
+
+59feats_scale_cv5_svm_auto  0.8913              0.8684
+_gamma0d1_isotonic_scale
+
+59feats_scale_gb_isotonic  0.9130               0.88954
+
+
+
+
+63feats_scale_gb_bag_sigmoid
+0.91431
+
+63feats_scale_gb_isotonic
+0.91033
+
+59feats_scale_svm_rf_gb_isotonic
+0.9113
+
+59feats_scale_svm_rf_isotonic.csv
+0.904121848078
+
+59feats_scale_bag_gb_isotonic
+0.90818
+
+46feats_scale_svm_auto_gamma0d1_isotonic_scale
+0.884534905396
+
+59feats_scale_svm_auto_gamma0d1_isotonic_scale
+0.8876
+
+0.9041
+
+46feats_scale_svm_auto_boost_isotonic_train.csv
+0.75698 - public
+
+SVM Calib isotonic
+0.857116650092
+
+SVM Calib sigmoid
+0.847107668233
+
+normalize SVM Calib isotonic
+0.822178681626
+
+normalize SVM Calib sigmoid
+0.830792482523
+
+scale SVM Calib sigmoid
+0.852253654544
+
+scale SVM Calib isotonic
+0.861645920884
+
+scale norm SVM Calib isotonic
+0.84621470009
+
+scale SVM auto isotonic
+0.875917246748
+
+scale rf 100 subsample isotonic
+0.85670553499
+
+scale rf 100 subsample sigmoid
+0.857685139141
+
+today
+
+0.87 train auc
+0.89
+
+tomorrow
+
+0.91
+0.93
+0.95
+
+last day
+
+ffa
